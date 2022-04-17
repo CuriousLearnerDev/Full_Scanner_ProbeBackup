@@ -102,7 +102,7 @@ def banner():
     #blbl = '\033[0;33m哔哩哔哩：https://space.bilibili.com/432899074\033[0m'
     github='\033[0;33mgithub项目地址：https://github.com/Zhao-sai-sai/Full-Scanner_ProbeBackup\033[0m'
     Frame=f'\033[0;33m {"—"*60}\033[0m'
-    help="""\033[0;31m 本程序是一个Full_Scanner(还在写)工具的分之，Full_Scanner还在写
+    help="""\033[0;31m 本程序是一个Full_Scanner工具的子工具，Full_Scanner还在写
     本工具是一个备份扫描工具可以批量目标扫描 注意：默认是用的自己生成的常见站长常见的备份方式，也可以指定字典\033[0m"""
     picture_=choose_color_2(picture_choice())
     icon=f"""\n{Frame}\n{picture_}\n\n{Author}\n{Blog}\n{github}\n{Frame}\n{help}\n{Frame}                          """

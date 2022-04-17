@@ -1,7 +1,10 @@
 ***
 > Full-Scanner的github项目地址：[https://github.com/Zhao-sai-sai/Full-Scanner](https://github.com/Zhao-sai-sai/Full-Scanner)
+
+## 2022/04/17 v(1.0)
+
 ## 工具简介
-程序是一个Full_Scanner(还在写)工具的分之，Full_Scanner还在写
+程序是一个Full_Scanner工具的子工具，Full_Scanner还在写
 本工具是一个备份扫描工具可以批量目标扫描 
 默认是用的自己生成的站长常见的备份方式
 可以指定字典
