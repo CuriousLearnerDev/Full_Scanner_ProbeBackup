@@ -1,6 +1,6 @@
 ***
 > Full-Scanner的github项目地址：[https://github.com/Zhao-sai-sai/Full-Scanner](https://github.com/Zhao-sai-sai/Full-Scanner)
-> Full_Scanner_back(后台扫描工具)项目地址：[https://github.com/Zhao-sai-sai/Full-Scanner](https://github.com/Zhao-sai-sai/Full-Scanner)
+> Full_Scanner_back(后台扫描工具)项目地址：[https://github.com/Zhao-sai-sai/Full_Scanner_back](https://github.com/Zhao-sai-sai/Full_Scanner_back)
 
 ## 2022/06/09 v(1.1)
 修复
